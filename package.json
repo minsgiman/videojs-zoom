@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "d3": "^5.15.1",
+    "d3": "^7.6.1",
     "video.js": "^7.7.5",
     "videojs-rotatezoom": "0.0.1",
     "vue": "^2.5.2"
